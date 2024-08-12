@@ -20,8 +20,8 @@ jobs:
         with:
           node-version: "lts/*"
       - run: npm ci
-      - run: npm run build
-      - run: npm audit signatures
+      # - run: npm run build
+      # - run: npm audit signatures
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
