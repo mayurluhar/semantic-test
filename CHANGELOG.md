@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/mayurluhar/semantic-test/compare/v1.1.0...v1.1.1) (2024-08-12)
+
+
+### Performance Improvements
+
+* new ([b6119b2](https://github.com/mayurluhar/semantic-test/commit/b6119b2ea76c318f9709bc08c2471f72473cc05e))
+
 # [1.1.0](https://github.com/mayurluhar/semantic-test/compare/v1.0.0...v1.1.0) (2024-08-12)
 
 
