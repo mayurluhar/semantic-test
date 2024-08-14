@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/mayurluhar/semantic-test/compare/v1.3.2...v2.0.0) (2024-08-14)
+
+
+* new update ([9d264ed](https://github.com/mayurluhar/semantic-test/commit/9d264eda8b2cebf4eccb5055c137a0849ea2dd98))
+
+
+### BREAKING CHANGES
+
+* new feature
+
 ## [1.3.2](https://github.com/mayurluhar/semantic-test/compare/v1.3.1...v1.3.2) (2024-08-14)
 
 
