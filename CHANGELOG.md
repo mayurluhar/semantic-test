@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/mayurluhar/semantic-test/compare/v2.0.0...v2.0.1) (2024-08-14)
+
+
+### Bug Fixes
+
+* new bug ([7bcab03](https://github.com/mayurluhar/semantic-test/commit/7bcab03e486b293ab2645db3304bd6782b07d18d))
+
 # [2.0.0](https://github.com/mayurluhar/semantic-test/compare/v1.3.2...v2.0.0) (2024-08-14)
 
 
