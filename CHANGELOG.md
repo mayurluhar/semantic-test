@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/mayurluhar/semantic-test/compare/v1.3.0...v1.3.1) (2024-08-14)
+
+
+### Bug Fixes
+
+* fix the hello bug ([fa91ebe](https://github.com/mayurluhar/semantic-test/commit/fa91ebe5a3de13ae4df5ce51ac499251c6512e14))
+
 # [1.3.0](https://github.com/mayurluhar/semantic-test/compare/v1.2.0...v1.3.0) (2024-08-14)
 
 
