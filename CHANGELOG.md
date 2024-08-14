@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mayurluhar/semantic-test/compare/v1.2.0...v1.3.0) (2024-08-14)
+
+
+### Features
+
+* helllo ([f11e40c](https://github.com/mayurluhar/semantic-test/commit/f11e40c1dfd708786b07c165e562eb9e5217f6a7))
+
 # [1.2.0](https://github.com/mayurluhar/semantic-test/compare/v1.1.1...v1.2.0) (2024-08-14)
 
 
