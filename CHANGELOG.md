@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/mayurluhar/semantic-test/compare/v1.1.1...v1.2.0) (2024-08-14)
+
+
+### Features
+
+* update new file ([4cbe2ff](https://github.com/mayurluhar/semantic-test/commit/4cbe2ff0b1d6e82cfc2db90cd3349e35f705dc15))
+
 ## [1.1.1](https://github.com/mayurluhar/semantic-test/compare/v1.1.0...v1.1.1) (2024-08-12)
 
 
