@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/mayurluhar/semantic-test/compare/v1.3.1...v1.3.2) (2024-08-14)
+
+
+### Performance Improvements
+
+* new update ([905825f](https://github.com/mayurluhar/semantic-test/commit/905825fb90dfc772289491324da0e09ba4d9bff8))
+
 ## [1.3.1](https://github.com/mayurluhar/semantic-test/compare/v1.3.0...v1.3.1) (2024-08-14)
 
 
